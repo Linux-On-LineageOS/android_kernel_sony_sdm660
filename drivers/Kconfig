@@ -216,4 +216,6 @@ source "drivers/cei/Kconfig"
 
 source "drivers/tee/Kconfig"
 
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
