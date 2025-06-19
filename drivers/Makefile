@@ -187,3 +187,4 @@ obj-$(CONFIG_ESOC)              += esoc/
 obj-$(CONFIG_CEI_HARDWARE_ID)	+= cei/
 obj-$(CONFIG_TEE)		+= tee/
 obj- += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
